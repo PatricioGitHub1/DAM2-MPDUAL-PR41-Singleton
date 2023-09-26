@@ -2,6 +2,8 @@
 
 En aquest projecte hi ha un exemple de Singleton a Java
 
+Alumne: PATRICIO ANDRÉ ROJAS CONDORI
+
 ### Compilació i funcionament ###
 
 A Linux i OSX:
